@@ -17,25 +17,31 @@
   name = "Research"
   identifier = "Project"
   url = "#projects"
-  weight = 30
+  weight = 25
 
   [[main]]
-    name = "Project 1"
+    name = "Overview"
     parent = "Project"
     url = "#projects"
-    weight = 30
+    weight = 25
 
   [[main]]
-    name = "Project 2"
+    name = "Crop Epigenetics"
     parent = "Project"
-    url = "#projects"
-    weight = 30
+    url = "project/crop_epigenetics"
+    weight = 31
 
   [[main]]
-    name = "Project 3"
+    name = "Epigenomic Signatures"
     parent = "Project"
-    url = "#projects"
-    weight = 30
+    url = "project/umr-distilling-functional-elements"
+    weight = 32
+
+  [[main]]
+    name = "Stress Resilience"
+    parent = "Project"
+    url = "project/stress"
+    weight = 33
 
 [[main]]
   name = "People"
