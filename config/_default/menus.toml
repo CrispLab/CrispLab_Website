@@ -9,19 +9,43 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "News"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Research"
+  identifier = "Project"
   url = "#projects"
   weight = 30
+
+  [[main]]
+    name = "Project 1"
+    parent = "Project"
+    url = "#projects"
+    weight = 30
+
+  [[main]]
+    name = "Project 2"
+    parent = "Project"
+    url = "#projects"
+    weight = 30
+
+  [[main]]
+    name = "Project 3"
+    parent = "Project"
+    url = "#projects"
+    weight = 30
+
+[[main]]
+  name = "People"
+  url = "#people"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
