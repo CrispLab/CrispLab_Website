@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Crop epigenetics"
+title: "Crop epigenetics and epigenomics"
 summary: "Epigenetic engineering, inheritance, and the roles of DNA methylation"
 authors: []
 tags: []
