@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-The lab opening at the [University of Queensland](https://www.uq.edu.au/), St Lucia Campus, in the [School of Agriculture and Food Sciences](https://agriculture.uq.edu.au/) beginning Feb 2020. We will be looking for students! Contact me for more information.
+The lab will be opening at the [University of Queensland](https://www.uq.edu.au/), St Lucia Campus, in the [School of Agriculture and Food Sciences](https://agriculture.uq.edu.au/) beginning Feb 2020. We will be looking for students! Contact me for more information.
