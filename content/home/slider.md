@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 12  # Order that this section will appear.
 
 # Slide interval.
@@ -16,8 +16,9 @@ height = "700px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Crop Epigenomics"
-  content = "Understanding the contribution of epigenetics to heritable phenotypic variation in crop plants."
+  title = "```Crop Epigenomics```"
+  content = "```Understanding the contribution of epigenetics to heritable phenotypic variation in crop plants.```"
+
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).

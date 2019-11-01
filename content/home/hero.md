@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 9  # Order that this section will appear.
 
 # title = "Crop Epigenomics"
@@ -20,15 +20,15 @@ weight = 9  # Order that this section will appear.
   # color = "navy"
 
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
 
   # Background image.
-  # image = "IMG_1697.jpg"  # Name of image in `static/img/`.
+  image = "IMG_1697.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -37,8 +37,13 @@ weight = 9  # Order that this section will appear.
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 
-
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["300px", "0", "300px", "0"]
 
 +++
 
-Understanding the contribution of epigenetics to heritable phenotypic variation in crop plants.
+<div style="background:rgba(0,0,0,.60); text-align:center; align=center; vertical-align: middle; padding:10px 47px;">
+<font size="+10">Crop epigenomics </font>
+ <br> Understanding and harnessing the contribution of epigenetics to heritable phenotypic variation in crop plants
+ </div>

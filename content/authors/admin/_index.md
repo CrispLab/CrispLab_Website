@@ -70,7 +70,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigators
+- Current Lab Members
 ---
 
 The guiding paradigm for my research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants and developing methods to harness that variation for crop improvement.
