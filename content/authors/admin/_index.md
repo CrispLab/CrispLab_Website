@@ -76,4 +76,4 @@ user_groups:
 - Current Lab Members
 ---
 
-The guiding paradigm for my research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants and developing methods to harness that variation for crop improvement.
+The guiding paradigm for our research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants and developing methods to harness that variation for crop improvement.
