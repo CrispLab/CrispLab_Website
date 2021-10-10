@@ -3,7 +3,7 @@
 
 title: "Epigenomics and stress resilience"
 summary: "Cryptic stress resilience epialleles and stress recovery"
-authors: []
+authors: ["admin"]
 tags: []
 categories: []
 date: 2019-10-30T20:37:49-05:00

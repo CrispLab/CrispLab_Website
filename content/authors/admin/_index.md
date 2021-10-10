@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Dr. Peter Crisp
+name: Peter Crisp
 
 # Username (this should match the folder name)
 authors:

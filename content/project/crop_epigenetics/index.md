@@ -3,7 +3,7 @@
 
 title: "Crop epigenetics and epigenomics"
 summary: "Epigenetic engineering, inheritance, and the roles of DNA methylation"
-authors: []
+authors: ["admin"]
 tags: []
 categories: []
 date: 2019-10-30T21:35:22-05:00
