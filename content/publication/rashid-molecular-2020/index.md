@@ -10,4 +10,6 @@ publication: "*Plant, Cell & Environment*"
 tags: ["acclimation", "cold", "cytochrome c oxidase (COX)", "heat", "photosynthesis", "respiration", "rice", "thermal stress"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/pce.13706"
 doi: "10.1111/pce.13706"
+projects:
+- "stress"
 ---

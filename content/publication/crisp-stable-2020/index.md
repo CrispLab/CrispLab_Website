@@ -10,4 +10,7 @@ publication: "*Proceedings of the National Academy of Sciences*"
 tags: ["DNA methylation", "chromatin accessibility", "cis-regulatory elements"]
 url_pdf: "https://www.pnas.org/content/early/2020/09/01/2010250117"
 doi: "10.1073/pnas.2010250117"
+projects:
+- "umr-distilling-functional-elements"
+
 ---

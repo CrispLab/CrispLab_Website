@@ -9,4 +9,7 @@ featured: false
 publication: "*Plant, Cell & Environment*"
 tags: ["Arabidopsis", "Arabidopsis thaliana", "Chlorophyll", "DNA Methylation", "epigenetics", "Genome", "Plant", "Light", "NPQ", "Photosynthesis", "Photosystem II Protein Complex", "Sequence Analysis", "DNA", "stress memory", "Stress", "Physiological", "Xanthophylls"]
 doi: "10.1111/pce.13324"
+projects:
+- "stress"
+
 ---

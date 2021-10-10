@@ -10,4 +10,6 @@ publication: "*The Plant Journal*"
 tags: ["CRISPR/Cas9", "Multiplexed genome editing", "NHEJ and MMEJ DNA repair", "Setaria viridis", "Trex2 exonuclease"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.14949"
 doi: "10.1111/tpj.14949"
+projects:
+- "crop_epigenetics"
 ---

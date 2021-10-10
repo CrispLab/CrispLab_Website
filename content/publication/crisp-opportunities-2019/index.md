@@ -9,4 +9,7 @@ featured: false
 publication: "*Molecular Plant*"
 url_pdf: "https://www.cell.com/molecular-plant/abstract/S1674-2052(19)30060-7"
 doi: "https://doi.org/10.1016/j.molp.2019.02.006"
+projects:
+- "umr-distilling-functional-elements"
+
 ---

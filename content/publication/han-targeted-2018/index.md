@@ -9,4 +9,6 @@ featured: false
 publication: "*bioRxiv*"
 url_pdf: "https://www.biorxiv.org/content/early/2018/01/09/242081"
 doi: "10.1101/242081"
+projects:
+- "crop_epigenetics"
 ---

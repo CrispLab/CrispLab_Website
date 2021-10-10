@@ -10,4 +10,6 @@ publication: "*G3: Genes, Genomes, Genetics*"
 tags: ["Abscisic acid (ABA)", "epigenetic", "Mediator of paramutation1 (MOP1)", "siRNAs", "Zea mays"]
 url_pdf: "https://www.g3journal.org/content/early/2020/03/16/g3.119.400993"
 doi: "10.1534/g3.119.400993"
+projects:
+- "stress"
 ---

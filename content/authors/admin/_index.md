@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer in Crop Biotechnology
+role: ARC DECRA Fellow and Lecturer in Crop Biotechnology
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Current Lab Members
+- "Lab leader"
 ---
 
 The guiding paradigm for our research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants and developing methods to harness that variation for crop improvement.

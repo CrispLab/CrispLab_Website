@@ -9,4 +9,7 @@ featured: false
 publication: "*Plant Physiology*"
 url_pdf: "http://www.plantphysiol.org/content/early/2017/10/06/pp.17.00744"
 doi: "10.1104/pp.17.00744"
+projects:
+- "stress"
+
 ---

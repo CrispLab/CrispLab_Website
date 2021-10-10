@@ -10,4 +10,6 @@ publication: "*Genetics*"
 tags: ["CNVs", "epigenetic", "maize", "sRNAs", "teosinte", "transposable element (TE)", "Zea mays"]
 url_pdf: "https://www.genetics.org/content/213/1/143"
 doi: "10.1534/genetics.119.302378"
+projects:
+- "crop_epigenetics"
 ---

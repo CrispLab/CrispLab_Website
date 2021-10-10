@@ -9,4 +9,7 @@ featured: false
 publication: "*The Plant Cell Online*"
 url_pdf: "http://www.plantcell.org/content/early/2017/07/13/tpc.16.00828"
 doi: "10.1105/tpc.16.00828"
+projects:
+- "stress"
+
 ---

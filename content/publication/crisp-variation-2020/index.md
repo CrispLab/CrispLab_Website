@@ -9,4 +9,6 @@ featured: false
 publication: "*Plant Physiology*"
 url_pdf: "http://www.plantphysiol.org/content/early/2019/10/01/pp.19.00817"
 doi: "10.1104/pp.19.00817"
+projects:
+- "crop_epigenetics"
 ---

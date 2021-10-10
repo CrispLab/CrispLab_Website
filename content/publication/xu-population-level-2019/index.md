@@ -9,4 +9,6 @@ featured: false
 publication: "*Genome Biology*"
 url_pdf: "https://doi.org/10.1186/s13059-019-1859-0"
 doi: "10.1186/s13059-019-1859-0"
+projects:
+- "crop_epigenetics"
 ---

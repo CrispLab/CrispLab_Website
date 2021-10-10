@@ -9,4 +9,6 @@ featured: false
 publication: "*The Maize Genome*"
 url_pdf: "https://doi.org/10.1007/978-3-319-97427-9_6"
 doi: "10.1007/978-3-319-97427-9_6"
+projects:
+- "crop_epigenetics"
 ---

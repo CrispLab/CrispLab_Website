@@ -10,4 +10,6 @@ publication: "*PLOS Genetics*"
 tags: ["Chromatin", "DNA methylation", "Genome annotation", "Haplotypes", "Maize", "Methylation", "Plant genomics", "Transposable elements"]
 url_pdf: "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008291"
 doi: "10.1371/journal.pgen.1008291"
+projects:
+- "crop_epigenetics"
 ---

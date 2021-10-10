@@ -9,4 +9,7 @@ featured: false
 publication: "*Science Advances*"
 url_pdf: "http://advances.sciencemag.org/content/2/2/e1501340"
 doi: "10.1126/sciadv.1501340"
+projects:
+- "stress"
+
 ---

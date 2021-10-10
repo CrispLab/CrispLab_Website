@@ -9,4 +9,6 @@ featured: false
 publication: "*The Plant Cell*"
 url_pdf: "http://www.plantcell.org/content/early/2020/03/17/tpc.20.00080"
 doi: "10.1105/tpc.20.00080"
+projects:
+- "umr-distilling-functional-elements"
 ---
