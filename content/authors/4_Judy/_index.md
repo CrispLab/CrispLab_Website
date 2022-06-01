@@ -1,37 +1,40 @@
 ---
 # Display name
-name: Ulduz Vafadarshamasbi
+name: Judy
 
 # Username (this should match the folder name)
 authors:
-- Ulduz
+- 4_Judy
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-#- name: School of Agriculture and Food Sciences
-#  url: "https://agriculture.uq.edu.au/"
+- name: School of Agriculture and Food Sciences
+  url: "https://agriculture.uq.edu.au/"
 - name: University of Queensland
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Crop improvement and biotechnology.
+bio: Crop epigenetics and biotechnology.
 
 interests:
-- Epigenomics
+- Barley
+- Wheat
 - DNA methylation
-- Gene expression and regulation
-- Stress transcriptomics (From genome to gene function)
-- Genetic manipulation of plants
--  Bioinformatics and Computational Biology
+- Transformation
+- Speed breeding
 
 education:
   courses:
+  - course:
+    institution:
+    year:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,16 +43,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vafadar.u@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link:   # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ulduzvsh
+  link:
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=NepvO7wAAAAJ&hl=en
+  link:
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-8370-8084
+  link:
+- icon: github
+  icon_pack: fab
+  link:
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -64,5 +71,4 @@ email: ""
 user_groups:
 - Current Lab Members
 ---
-
-Ulduz is a PhD student that passionate about molecular genetics and epigenomics. Ulduz aims to increase adoption of new technologies for crop improvement.
+Investigating the potential for epigenetic gain and precision genome engineering in barley and wheat improvement.

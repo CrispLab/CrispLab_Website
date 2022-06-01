@@ -1,48 +1,39 @@
 ---
 # Display name
-name: Yan Zhang (Kimmy)
+name: Vanessa Putland
 
 # Username (this should match the folder name)
 authors:
-- Yan
+- Vanessa
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: PhD Student
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:
-#- name: School of Agriculture and Food Sciences
-#  url: "https://agriculture.uq.edu.au/"
+- name: School of Agriculture and Food Sciences
+  url: "https://agriculture.uq.edu.au/"
 - name: University of Queensland
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Crop improvement and biotechnology.
+bio: Crop epigenetics and biotechnology.
 
 interests:
-- Genetic improvement
+- Maize
+- DNA methylation
 - Biotechnology
-- Genome editing (CRISPR/Cas9)
-- Epigenomics
-- GMOs and GM-free plants
+- Sequencing technologies
+- Commercialisation
 
 education:
   courses:
-  - course: BSc in Biopharmaceutical
-    institution: Nanjing University of Chinese Medicine
-    year: 2017
-    thesis:
-  - course: BSc in Biomolecular Science
-    institution: Griffith University
-    year: 2018
-    thesis:
-  - course: MSc in Biotechnology Research Extensive
-    institution: University of Queensland
-    year: 2020
-    thesis:
+  - course:
+    institution:
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,8 +42,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yan.zhang12@uqconnect.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link:   # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
+  icon_pack: fab
+  link:
+- icon: google-scholar
+  icon_pack: ai
+  link:
+- icon: orcid
+  icon_pack: ai
+  link:
+- icon: github
   icon_pack: fab
   link:
 
@@ -70,5 +70,3 @@ email: ""
 user_groups:
 - Current Lab Members
 ---
-
-A first-year PhD student using epigenomics to discover hidden genetic control elements for crop improvement. Full of passion for lab work and I am willing to develop a positive work environment.

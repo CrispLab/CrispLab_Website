@@ -1,39 +1,39 @@
 ---
 # Display name
-name: Haylie Andrews
+name: Ulduz Vafadarshamasbi
 
 # Username (this should match the folder name)
 authors:
-- Haylie
+- 3_Ulduz
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Honours Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: School of Agriculture and Food Sciences
-  url: "https://agriculture.uq.edu.au/"
+#- name: School of Agriculture and Food Sciences
+#  url: "https://agriculture.uq.edu.au/"
 - name: University of Queensland
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Crop epigenetics and biotechnology.
+bio: Crop improvement and biotechnology.
 
 interests:
-- Sorghum
-- Grain quality
-- Cis-regulatory elements
-- Biotechnology
+- Epigenomics
 - DNA methylation
+- Gene expression and regulation
+- Stress transcriptomics (From genome to gene function)
+- Genetic manipulation of plants
+- Bioinformatics and Computational Biology
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: BSc in Agricultural Science (Plant Breeding)
+  - course: MSc in Biotechnology
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,20 +42,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:   # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:vafadar.u@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link:
+  link: https://twitter.com/ulduzvsh
 - icon: google-scholar
   icon_pack: ai
-  link:
+  link: https://scholar.google.com/citations?user=NepvO7wAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
-  link:
-- icon: github
-  icon_pack: fab
-  link:
-
+  link: https://orcid.org/0000-0002-8370-8084
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,3 +66,6 @@ email: ""
 user_groups:
 - Current Lab Members
 ---
+Investigating the epigenetic contribution to trait variation in sorghum
+
+Ulduz is a PhD student that passionate about molecular genetics and epigenomics. Ulduz aims to increase adoption of new technologies for crop improvement.

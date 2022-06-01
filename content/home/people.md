@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Lab leader",
+  user_groups = ["Group leader",
                  "Current Lab Members",
                  "Alumni",
                  "Researchers",
