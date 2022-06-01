@@ -65,4 +65,4 @@ user_groups:
 - Current Lab Members
 ---
 
-PhD student passionate about sorghum improvement and sorghum epigenomics.
+Ulduz is a PhD student that passionate about molecular genetics and epigenomics. Ulduz aims to increase adoption of new technologies for crop improvement.

@@ -4,7 +4,7 @@ name: Jessica Hintzsche
 
 # Username (this should match the folder name)
 authors:
-- JessicaHintzsche
+- 1_JessicaHintzsche
 
 # Is this the primary user of the site?
 superuser: false
