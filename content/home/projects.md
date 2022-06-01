@@ -79,7 +79,7 @@ subtitle = ""
 
 The field of epigenetics is concerned with the inheritance of traits that are not solely attributable to the underlying DNA sequence. We seek to understand the contribution of epigenetics to heritable phenotypic variation and resilience in plants.
 
-I am continually fascinated by epigenetic inheritance and there remain many unanswered questions concerning the fundamental principles of epigenetic phenomenon.
+I am continually fascinated by epigenetic inheritance and there remain many unanswered questions concerning the fundamental principles of epigenetic phenomena.
 
 Epigenomic datasets including profiles of DNA methylation and chromatin modifications also provide a valuable resource for understanding gene regulation and genome architecture. In particular, we use epigenomic approaches to distill large genomes down to the relatively small fraction of regions that are functionally important for trait variation.
 

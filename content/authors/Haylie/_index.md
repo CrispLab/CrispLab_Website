@@ -1,37 +1,44 @@
 ---
 # Display name
-name: Ulduz Vafadarshamasbi
+name: Haylie Andrews
 
 # Username (this should match the folder name)
 authors:
-- Ulduz
+- Haylie
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: PhD Student
+role: Honours Student
 
 # Organizations/Affiliations
 organizations:
-#- name: School of Agriculture and Food Sciences
-#  url: "https://agriculture.uq.edu.au/"
+- name: School of Agriculture and Food Sciences
+  url: "https://agriculture.uq.edu.au/"
 - name: University of Queensland
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Crop improvement and biotechnology.
+bio: Crop epigenetics and biotechnology.
 
 interests:
 - Epigenomics
 - DNA methylation
-- Gene expression and regulation
-- Stress transcriptomics (From genome to gene function)
-- Genetic manipulation of plants
--  Bioinformatics and Computational Biology
+- Bioinformatics
+- Reproducibility in science
 
 education:
   courses:
+  - course: PhD in Plant Biology
+    institution: Australian National University
+    year: 2016
+  - course: BSc in Science with Honours
+    institution: Australian National University
+    year: 2009
+  - course: LLB in Laws with Honours
+    institution: Australian National University
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -40,16 +47,20 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:vafadar.u@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:p.crisp@uq.edu.au'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ulduzvsh
+  link: https://twitter.com/pete_crisp
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=NepvO7wAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=BAVfSlIAAAAJ
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0002-8370-8084
+  link: https://orcid.org/0000-0002-3655-0130
+- icon: github
+  icon_pack: fab
+  link: https://github.com/pedrocrisp
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -65,4 +76,4 @@ user_groups:
 - Current Lab Members
 ---
 
-PhD student passionate about sorghum improvement and sorghum epigenomics.
+The guiding paradigm for our research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants and developing methods to harness that variation for crop improvement.
