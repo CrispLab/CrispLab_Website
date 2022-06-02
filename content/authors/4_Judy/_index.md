@@ -1,13 +1,13 @@
 ---
 # Display name
-name: Judy
+name: Judy Eglitis-Sexton
 
 # Username (this should match the folder name)
 authors:
 - 4_Judy
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
