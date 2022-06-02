@@ -23,9 +23,12 @@ organizations:
 bio: Crop epigenetics and biotechnology.
 
 interests:
-- Biotechnology
-- Epigenome editing
+- DNA editing (CRISPR/Cas9)
+- Genome editing
+- Epigenomics
 - DNA methylation
+- GMOs
+
 
 education:
   courses:
@@ -68,4 +71,6 @@ email: ""
 user_groups:
 - Current Lab Members
 ---
-Genome editing tools for monocot crop improvement
+Epigenome editing tools for DNA methylation engineering for crop improvement
+
+A first year PhD student interested in methods of DNA and genome editing as applied in plants and looking to develop those methods towards future discoveries. Currently working on dCas9-directed DNA methylation and demethylation in plant models.
