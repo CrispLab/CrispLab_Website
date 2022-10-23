@@ -15,9 +15,9 @@ role: ARC DECRA Fellow and Lecturer in Crop Biotechnology
 # Organizations/Affiliations
 organizations:
 - name: School of Agriculture and Food Sciences
-  url: "https://agriculture.uq.edu.au/"
+  url: "https://researchers.uq.edu.au/researcher/25567"
 - name: University of Queensland
-  url: "https://www.uq.edu.au/"
+  url: "https://agriculture.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Crop epigenetics and biotechnology.

@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Haylie Andrews
+name: Kusumitha Shrinivasan
 
 # Username (this should match the folder name)
 authors:
-- Haylie
+- Kusumitha
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Honours Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -20,20 +20,23 @@ organizations:
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Crop epigenetics and biotechnology.
+bio: Genetic Engineering of Sorghum lines to improve its digestibility.
 
 interests:
-- Sorghum
-- Grain quality
-- Cis-regulatory elements
-- Biotechnology
-- DNA methylation
+- Sorghum Digestibility
+- Grain Quality
+- Genetic Engineering
+- RNAi/CRISPR – Which is better and why?
+- Plant improvements
 
 education:
   courses:
-  - course:
-    institution:
-    year:
+  - course: Masters in Biotechnology with a Major in Agricultural Biotechnology
+    institution: University of Queensland
+    year: 2022
+  - course: Btech in Biotechnology
+    institution: Vellore Institute of Technology
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -42,16 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link:   # For a direct email link, use "mailto:test@example.org".
+  link: mailto:k.shrinivasan@uq.net.au # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link:
 - icon: google-scholar
   icon_pack: ai
-  link:
+  link: https://scholar.google.com.au/citations?user=FwkTkOcAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
-  link:
+  link: https://orcid.org/0000-0002-8081-8392
 - icon: github
   icon_pack: fab
   link:
@@ -68,5 +71,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Current Lab Members
 ---
+I love studying Science and caring for plants and cute dogs! Working in the lab gratifies the young child in me who dreamt of being a scientist one day.
